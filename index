@@ -1,0 +1,15 @@
+1. Inicio
+2. Crear una variable llamada "gridHeight" y asignarle el valor del campo de entrada "Grid Height"
+3. Crear una variable llamada "gridWidth" y asignarle el valor del campo de entrada "Grid Width"
+4. Crear una tabla con el identificador "pixelCanvas"
+5. Crear un formulario con el identificador "sizePicker"
+6. Agregar un campo de entrada para la altura de la cuadrícula con el identificador "inputHeight"
+7. Agregar un campo de entrada para el ancho de la cuadrícula con el identificador "inputWidth"
+8. Agregar un botón de envío al formulario
+9. Agregar un enlace para imprimir la página con el texto "imprimir!"
+10. Agregar un campo de entrada de color con el identificador "colorPicker"
+11. Agregar un encabezado "Choose Grid Size"
+12. Agregar un encabezado "Pick A Color"
+13. Agregar un encabezado "Design Canvas"
+14. Incluir los archivos CSS y JavaScript necesarios
+15. Fin
